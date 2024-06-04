@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as t}from"./index-wnqtyarC.js";const o={},s={class:"interview"};function n(r,_){return c(),t("div",s," 面试 ")}const d=e(o,[["render",n],["__scopeId","data-v-368220df"]]);export{d as default};
