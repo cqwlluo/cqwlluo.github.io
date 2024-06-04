@@ -1,1 +1,0 @@
-import{_ as e,o as c,c as s}from"./index-wnqtyarC.js";const o={},t={class:"news"};function _(a,n){return c(),s("div",t," 新闻 ")}const d=e(o,[["render",_],["__scopeId","data-v-e2ea1b9c"]]);export{d as default};
